@@ -1,0 +1,28 @@
+{
+    "superadmin": {
+        "username": "superadmin",
+        "password": "$2y$10$8LL0xKZrHvL4zoXbsfqkp.GlrPAziYmkwLY53\/9BmglpxCBWhmgtO",
+        "role": "superadmin",
+        "first_name": "Admin",
+        "last_name": "System",
+        "email": "admin@videohub.com",
+        "phone": "+1234567890",
+        "birthdate": "1990-01-01",
+        "created_at": "2025-06-25 00:26:24",
+        "last_login": null,
+        "channel_created": true
+    },
+    "vsemoth": {
+        "username": "vsemoth",
+        "password": "$2y$10$4WUwX.IhpsACiFJ1akvp1ehpAJKrtyBF4oAKG6wFQMbqOINyWSl\/6",
+        "role": "user",
+        "first_name": "Lwandile",
+        "last_name": "Rozani",
+        "email": "vsemoth@gmail.com",
+        "phone": "+27633017056",
+        "birthdate": "1988-04-04",
+        "created_at": "2025-06-25 00:27:52",
+        "last_login": "2025-06-25 02:00:51",
+        "channel_created": true
+    }
+}

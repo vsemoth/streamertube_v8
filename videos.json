@@ -1,0 +1,33 @@
+{
+    "videos": [
+        {
+            "id": "685b3c62ac0ca",
+            "title": "Lady Gaga - Hold My Hand (From \u201cTop Gun- Maverick\u201d) [Official Music Video]",
+            "artist": "vsemoth",
+            "category": "Music",
+            "tags": "pop,electric,ballard,vocal,Lady Gaga,Hold My Hand,Top Gun,Maverick,Official Music Video",
+            "description": "Lady Gaga - Hold My Hand (From \u201cTop Gun- Maverick\u201d) [Official Music Video]",
+            "duration": "230",
+            "durationFormatted": "03:50",
+            "videoFilename": "685b3c62ab3dc.mp4",
+            "thumbnailFilename": "685b3c62ab7a6.jpg",
+            "uploadDate": "2025-06-25",
+            "uploadDateFormatted": "Just now",
+            "fileSize": 69299460,
+            "resolutions": {
+                "1080p": "685b3c62ab3dc.mp4",
+                "720p": "685b3c62ab3dc.mp4",
+                "480p": "685b3c62ab3dc.mp4",
+                "360p": "685b3c62ab3dc.mp4"
+            },
+            "subtitles": {
+                "en": "subtitle_685b3c62aba37_en.vtt",
+                "es": "subtitle_685b3c62abba8_es.vtt",
+                "fr": "subtitle_685b3c62abd13_fr.vtt",
+                "de": "subtitle_685b3c62abf06_de.vtt"
+            },
+            "views": 1,
+            "likes": []
+        }
+    ]
+}

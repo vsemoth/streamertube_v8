@@ -1,0 +1,20 @@
+{
+    "superadmin": {
+        "owner": "superadmin",
+        "name": "Official VideoHub",
+        "description": "The official channel of VideoHub",
+        "created_at": "2025-06-25 00:26:24",
+        "subscribers": [],
+        "videos": []
+    },
+    "vsemoth": {
+        "owner": "vsemoth",
+        "name": "24 - 7",
+        "description": "Music for every hour of the day",
+        "created_at": "2025-06-25 00:29:12",
+        "subscribers": [],
+        "videos": [
+            "685b3c62ac0ca"
+        ]
+    }
+}

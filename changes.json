@@ -1,0 +1,39 @@
+{
+    "changes": [
+        {
+            "id": "685b26689d74b",
+            "action": "register",
+            "user": "vsemoth",
+            "details": "New user registered: vsemoth",
+            "timestamp": "2025-06-25 00:27:52"
+        },
+        {
+            "id": "685b2672d43eb",
+            "action": "login",
+            "user": "vsemoth",
+            "details": "User logged in: vsemoth",
+            "timestamp": "2025-06-25 00:28:02"
+        },
+        {
+            "id": "685b26b84bd54",
+            "action": "create_channel",
+            "user": "vsemoth",
+            "details": "Channel created: 24 - 7",
+            "timestamp": "2025-06-25 00:29:12"
+        },
+        {
+            "id": "685b3c33595e1",
+            "action": "login",
+            "user": "vsemoth",
+            "details": "User logged in: vsemoth",
+            "timestamp": "2025-06-25 02:00:51"
+        },
+        {
+            "id": "685b3c62ac39f",
+            "action": "upload",
+            "user": "vsemoth",
+            "details": "Uploaded video: Lady Gaga - Hold My Hand (From \u201cTop Gun- Maverick\u201d) [Official Music Video]",
+            "timestamp": "2025-06-25 02:01:38"
+        }
+    ]
+}
